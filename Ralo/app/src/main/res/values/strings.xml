@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Ralo</string>
+    <string name="tourist_spots">Tourist Spots</string>
+    <string name="tour1">TODO</string>
+    <string name="tipupalace">tipupalace</string>
+    <string name="lalbagh">lalbagh</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="content">
+        Heritage Sites
+Vidhana Soudha: Conceived by the then Chief Minister of Mysuru State, Sri Kengal Hanumanthaiah, this magnificent structure was completed in 1956 that houses the State Legislature and the Secretariat of Karnataka. Imposing in its size and grandeur, this granite monument is considered a landmark of Bengaluru and is one of the most impressive legislative buildings in the country. Located adjacent is the Vikasa Soudha, housing many important government offices.
+Freedom Park (former Central Jail):Bengaluru’s former prison, the Central Jail has been revamped and reformed as a park in an area of about 21 acres. Inaugurated to the public in November 2008, the park has a library, museum, joggers’ stretch, amphitheater, a children’s play area and a part of it has been dedicated for holding protests/ public meetings. There is also a cafeteria as well as ample of parking space.
+Bangalore Palace:Turreted parapets, battlements, fortified towers and arches adorn this regal architectural masterpiece modelled on the Windsor Castle in England. An open courtyard allows space for concerts, exhibitions and cultural programs. Exquisite carvings, paintings and photographs of viceroys, maharajas and other famous personalities form special attractions inside the palace building. There is an amusement park, better known as Fun World, inside the palace complex.
+Tipu Palace &amp; Fort: Built in 1791, this ornate palace was once Tipu Sultan’s summer retreat. The two-storey palace stands out for its impressive architecture, with its magnificent wooden structure, fluted pillars, cusped arches and balconies, and houses a museum that contains various artefacts belonging to the Hyder Ali-Tipu regime.Tipu Sultan’s fort  palace is open to visitors from 8.30 AM till 5.30 PM daily.
+High Court (Attara Kacheri): Overlooking Vidhana Soudha is this red brick and stone building in the Graeco-Roman style of architecture. It is probably the oldest public building in Bengaluru and houses the state High Court.
+Town Hall: Puttanna Chetty Purabhavana (town hall) was built in 1935 in classic European style with giant Tuscan pillars. Town Hall is used for events, functions and cultural shows.
+Corporation Building: The 1936 building has an impressive dome, clock tower and retro look. Corporation building is home to BBMP (Bruhat Bengaluru Mahanagara Palike) and city Mayor’s office.
+Raj Bhavan: Built in 1842, Raj Bhavan is a magnificent building spanning 18 acres, with a vast garden. Home to Honorable Governor of Karnataka. http://rajbhavan.kar.nic.in/
+Mayo Hall: A two storied indo-sarcenic style building built in memory of Lord Mayo (former Governor General of India) in 1883 is now home to government offices.
+Sheshadri Iyer Memorial Hall: Cubbon Park has a central library housed in Sheshadri Iyer Memorial Hall. Central Library is open daily from 8.30 AM till 7.30 PM, except on Mondays, public holidays and second Tuesdays of the month. A well maintained garden with colourful flowers is available right in front of the memorial hall.
+    </string>
+</resources>
